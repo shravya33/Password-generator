@@ -1,1 +1,1 @@
-This is a simple Python program which randomly generates a strong password for you of any desired length
+This is a Python program which randomly generates a strong password for any desired length of characters
